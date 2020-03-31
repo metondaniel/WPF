@@ -1,0 +1,4 @@
+C:\Users\daniel\documents\visual studio 2015\Projects\TestApp\ModelView\bin\Debug\ModelView.dll
+C:\Users\daniel\documents\visual studio 2015\Projects\TestApp\ModelView\bin\Debug\ModelView.pdb
+C:\Users\daniel\documents\visual studio 2015\Projects\TestApp\ModelView\obj\Debug\ModelView.dll
+C:\Users\daniel\documents\visual studio 2015\Projects\TestApp\ModelView\obj\Debug\ModelView.pdb
